@@ -194,6 +194,7 @@ Bu proje özelinde:
 | SVM                | %87.40                        |
 | KNN                | %80.40                        |
 | Naive Bayes        | %64.90                        |
+| MLP                | %91.60                        |
 
 ---
 
@@ -227,41 +228,45 @@ Her model:
 
 #### 🔵 Düşük Risk Sınıfı Tahmini
 - Kullanıcı verisi
-![image](https://github.com/user-attachments/assets/de0a68b0-bacd-485c-a4a8-3e8c96bd24c8)
+![image](https://github.com/user-attachments/assets/898ae9f5-4c99-451c-adc2-b20686de8230)
+
 
 - Model tahmini
-![image](https://github.com/user-attachments/assets/e6c5b3ee-95c0-45e9-acda-27ecfdc06647)
+![image](https://github.com/user-attachments/assets/c22af694-c366-4bfb-99b1-9708fdec3fb7)
+
 
 - F1-Score ve tahmin grafiği  
-![image](https://github.com/user-attachments/assets/b0092d7e-073a-4d5a-b890-128e1a4495a1)
+![image](https://github.com/user-attachments/assets/34a55d71-63c4-4b03-a6a2-2bfb177c6773)
+
 
 
 ---
 
 #### 🟡 Orta Risk Sınıfı Tahmini
 - Kullanıcı verisi
-![image](https://github.com/user-attachments/assets/b5d92ad8-bf33-4795-896d-3d0dfca94809)
+![image](https://github.com/user-attachments/assets/2cddfb05-8db8-4dea-9111-18fccbec7889)
 
 
 - Model tahmini
-![image](https://github.com/user-attachments/assets/49dcf419-8609-4fc0-b4db-624b768f0fa6)
+![image](https://github.com/user-attachments/assets/afd4f7ff-307b-485b-83a9-6bcfcd53dee5)
+
 
 
 - F1-Score ve tahmin grafiği  
-![image](https://github.com/user-attachments/assets/1849b781-66f5-4f55-8407-433ef1cd122c)
+![image](https://github.com/user-attachments/assets/f07620b8-769e-4db7-9d0b-80620608d162)
 
 ---
 
 #### 🔴 Yüksek Risk Sınıfı Tahmini
 - - Kullanıcı verisi
-![image](https://github.com/user-attachments/assets/a264af8f-e30f-48b1-bc04-3246dd33f44e)
-
+![image](https://github.com/user-attachments/assets/ba1c436f-5149-4093-800b-8026afb03cf8)
 
 - Model tahmini
-![image](https://github.com/user-attachments/assets/31851354-d1a3-4d10-86c0-958298fe71ca)
+![image](https://github.com/user-attachments/assets/e40c5de4-2fa6-4cab-b56e-156861bbfea0)
 
 - F1-Score ve tahmin grafiği  
-![image](https://github.com/user-attachments/assets/0ee688f3-8360-42da-96dc-3d64eb89b5c9)
+![image](https://github.com/user-attachments/assets/bf219daa-9470-4627-946b-80492ed87cba)
+
 
 
 
@@ -275,7 +280,10 @@ Model performansları doğruluk tablosu ve başarı grafiği ile görsel olarak 
 ✅ **Random Forest**
 
 öne çıkmıştır. Naive Bayes ise düşük doğruluk nedeniyle uygun bulunmamıştır.
-![image](https://github.com/user-attachments/assets/224d2994-827e-4d69-9812-c28830439b95)
+
+![image](https://github.com/user-attachments/assets/ba2dd3a3-7bd7-433c-9b6a-e8ea5a584e5f)
+
+![image](https://github.com/user-attachments/assets/85958cd7-5181-4f53-9471-25d3b428c1f7)
 
 
 ---
