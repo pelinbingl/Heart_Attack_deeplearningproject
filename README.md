@@ -175,6 +175,16 @@ Karar ağacı modeli %99.4 doğruluk ile en başarılı sonuçları vermiştir. 
 %64.9 doğruluk ile en düşük performansa sahiptir. Kalp krizi gibi çok faktörlü durumlarda özellik bağımsızlığı varsayımı zayıf kalmıştır.
 
 ---
+### 🧠 Multilayer Perceptron (MLP)
+- *Avantajları*:
+  - Derin öğrenme modelleri arasında yer alır ve karmaşık ilişkileri öğrenme kapasitesine sahiptir.
+  - Çok katmanlı yapısı sayesinde yüksek doğruluk oranları elde edilebilir.
+- *Dezavantajları*:
+  - Eğitim süresi uzun olabilir.
+  - Parametre ayarlamaları karmaşık olabilir.
+  - Çok büyük verilerde hesaplama kaynakları açısından zorlayıcı olabilir.
+
+---
 
 ## 🔍 Sonuç ve Model Seçimi
 
